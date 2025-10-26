@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-My first homework. WebStudio" main webpage.
+# goit-markup-hw-02
+
+My second homework. "WebStudio" webpage.
